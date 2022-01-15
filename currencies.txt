@@ -1,0 +1,156 @@
+AED, Dírham árabes, درهم
+AFN, Afghani, ؋
+ALL, Lek, L
+AMD, Dram, ֏
+ANG, Florín de las Antillas Neerlandesas, ƒ
+AOA, Kwanza, Kz
+ARS, Peso argentino, $
+AUD, Dólar australiano, $
+AWG, Florín, ƒ
+AZN, Manat, ₼
+BAM, Marca convertible, KM
+BBD, Dólar de Barbados, $
+BDT, Taka, ৳
+BGN, Lev búlgaro, Лв
+BHD, Dinar de Bahréin, .د.ب
+BIF, Franco de Burundi, FBu
+BMD, Dólar de las Bermudas, $
+BND, Dólar de Brunei, B$
+BOB, Boliviano, b$
+BRL, Real, R$
+BSD, Dólar de las Bahamas, B$
+BTN, Ngultrum, Nu
+BWP, Pula, P
+BYR, Rublo bielorrusia, Br
+BZD, Dólar de Belice, $
+CAD, Dólar canadiense, C$
+CDF, Franco congoleño, F
+CHF, Franco suizo, Fr.
+CLP, Peso chileno, $
+CNY, Yuan Renminbi, ¥
+COP, Peso colombiano, $
+CRC, Colón, ₡
+CUP, Peso cubano, $
+CVE, Escudo de Cabo Verde, $
+CZK, Corona checo, Kč
+DJF, Franco de Djibouti, ₣
+DKK, Corona danés, kr
+DOP, Peso dominicano, RD$
+DZD, Dinar argelino, دج
+EGP, Libra egipcio, ج.م
+ERN, Nakfa, Nfk
+ETB, Birr, Br
+EUR, Euro, €
+FJD, Dólar Fidschi, $
+FKP, Libra de las Malvinas, £
+GBP, Libra esterlina, £
+GEL, Lari georgiano, ₾
+GGP, Libra de Guernsey, £
+GHS, Cedi de Ghana, GH₵
+GIP, Libra de Gibraltar, £
+GMD, Dalasi, D
+GNF, Franco de Guinea, FG
+GTQ, Quetzal, Q
+GYD, Dólar de Guyana, $
+HKD, Dólar de Hong Kong, $
+HNL, Lempira, L.
+HRK, Kuna, kn
+HTG, Gourde, G
+HUF, Forint húngaro, Ft
+IDR, Rupia indonesio, Rp
+ILS, Shekel israelí, ₪
+IMP, Libra manesa, £
+INR, Rupia india, ₹
+IQD, Dinar iraquí, ع.د
+IRR, Rial iraní, ریال
+ISK, Corona islandesa, kr
+JEP, Libra de Jersey, £
+JMD, Dólar de Jamaica, $
+JOD, Dinar jordano, JD
+JPY, Yen japonés, ¥
+KES, Chelín keniano, KSh
+KGS, Som, лв
+KHR, Riel camboyano, ៛
+KMF, Franco comorano, ₣
+KPW, Won norcoreano, ₩
+KRW, Won surcoreano, ₩
+KWD, Dinar kuwaití, د.ك
+KYD, Dólar caimán, $
+KZT, Tenge, ₸
+LAK, Kip, ₭
+LBP, Libra libanés, ل.ل
+LKR, Rupia de Sri Lanka, Rs
+LRD, Dólar liberiano, L$
+LSL, Loti de Lesotho, L
+LYD, Dinar libio, ل.د
+MAD, Dirham marroquí, درهم
+MDL, Leu, RON
+MGA, Ariary malgache, Ar
+MKD, Denar, Ден.
+MMK, Kyat, K
+MNT, Tugrik, ₮
+MOP, Pataca macanés, MOP$
+MRO, Ouguiya, UM
+MUR, Rupia mauriciano, Rp
+MVR, Rufiyaa maldivo, ރ
+MWK, Kwacha, MK
+MXN, Peso mexicano, $
+MYR, Ringgit, RM
+MZN, Metical, MT
+NAD, Dólar de Namibia, N$
+NGN, Naira, ₦
+NIO, Oro de Córdoba, C$
+NOK, Corona noruego, kr
+NPR, Rupia nepalés, Rs
+NZD, Dólar neozelandés, NZ$
+OMR, Rial omaní, ر.ع
+PAB, Balboa panameño, ฿
+PEN, Sol nuevo, S/
+PGK, Kina, PKG
+PHP, Peso filipino, ₱
+PKR, Rupia paquistaní, Rs
+PLN, Zloty, zł
+PYG, Guaraní, ₲
+QAR, Rial katarí, ر.ق
+RON, Leu, RON
+RSD, Dinar serbio, дин
+RUB, Rublo ruso, ₽
+RWF, Franco ruandés, RF
+SAR, Rial saudí, ر.س
+SBD, Dólar de Salomon, $
+SCR, Rupia de Seychelles, SR
+SDG, Libra sudanés, SD£
+SEK, Corona sueco, kr
+SGD, Dólar de Singapur, S$
+SHP, Libra de St-Helena, £
+SLL, Leone, Le
+SOS, Chelín somalí, So
+SRD, Dólar de Suriname, $
+STD, Dobra, Db
+SYP, Libra sirios, S£
+SZL, Lilangeni swazi, L
+THB, Baht tailandés, ฿
+TJS, Somoni, SM
+TMT, Manat, ман
+TND, Dinar tunecinos, د.ت
+TRY, Lira turcos, ₺
+TTD, Dólar de Trinidad and Tobago, TT$
+TWD, Dólar nuevo taiwanés, NT$
+TZS, Chelín de Tanzania, Tsh
+UAH, Hrywnja, ₴
+UGX, Chelín de Uganda, USh
+USD, Dólar estadounidenses, $
+UYU, Peso uruguayo, N$
+UZS, Sum uzbeko, лв
+VEF, Bolívar fuerte, Bs
+VND, Dong, ₫
+VUV, Vatu, Vt
+WST, Tala, WS$
+XAF, Franco centroafricano, FCFA
+XCD, Dólar del Caribe Oriental, ECD$
+XOF, Franco de África Occidental, FCFA
+XPF, Franco del Pacífico, F
+YER, Rial yemení, ﷼
+ZAR, Rand sudafricano, R
+ZMW, Kwacha de Zambia, ZK
+ZWL, Dólar de Zimbabue, Z$
