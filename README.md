@@ -6,7 +6,7 @@ Money Calculator es una aplicación Java que simplifica la conversión de una mo
 
 # 👥 Equipo de desarrollo (Ctrl + Click para ver los perfiles)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Andrea%20Santana%20Lopez-purple?style=flat-square&logo=github)](https://github.com/AndreaSantalos)
+[![GitHub](https://img.shields.io/badge/GitHub-Alejandro%20David%20Arzola%20Saavedra-blue?style=flat-square&logo=github)](https://github.com/AlejandroDavidArzolaSaavedra)
 
 ## Características ✨
 
@@ -28,12 +28,6 @@ El código sigue el patrón MVC para una organización clara y modular:
 
 El patrón Observer se utiliza para permitir que la vista se actualice automáticamente cuando cambian las tasas de cambio.
 
-<ul align="center">		
-  <a href="https://tradingview.github.io/lightweight-charts/docs" target="_blank">
-    <img style="width:40rem"  src="model.PNG">
-  </a>
-</ul>
-
 ## Integración de API 🌐
 
 - Se utiliza una API para obtener tasas de cambio actualizadas.
@@ -46,6 +40,14 @@ El patrón Observer se utiliza para permitir que la vista se actualice automáti
 
 - Java JDK 8 o superior.
 - IDE compatible con Java (Eclipse, IntelliJ, etc.).
+
+## Diseño del Modelo 🎨
+
+<ul align="center">		
+  <a href="https://tradingview.github.io/lightweight-charts/docs" target="_blank">
+    <img style="width:40rem"  src="model.PNG">
+  </a>
+</ul>
 
 ## Instrucciones de Uso 🚀
 
