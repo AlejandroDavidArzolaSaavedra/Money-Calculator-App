@@ -41,12 +41,16 @@ El patrón Observer se utiliza para permitir que la vista se actualice automáti
 - Java JDK 8 o superior.
 - IDE compatible con Java (Eclipse, IntelliJ, etc.).
 
-## Diseño del Modelo 🎨
+## Diseño de la interfaz 🎨
 
 <ul align="center">		
-  <a href="https://tradingview.github.io/lightweight-charts/docs" target="_blank">
+    <img style="width:40rem"  src="interfaz.png">
+</ul>
+
+## Diseño del Modelo 💻
+
+<ul align="center">		
     <img style="width:40rem"  src="model.PNG">
-  </a>
 </ul>
 
 ## Instrucciones de Uso 🚀
@@ -58,3 +62,4 @@ El patrón Observer se utiliza para permitir que la vista se actualice automáti
 ## Contribuciones 🤝
 
 ¡Se aprecian las contribuciones! Si encuentras errores o tienes mejoras sugeridas, crea un _issue_ o envía una solicitud de _pull request_.
+
