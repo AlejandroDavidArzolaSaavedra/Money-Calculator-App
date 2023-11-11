@@ -1,65 +1,64 @@
 <h1 align="center"><b>Money Calculator App 💰 </b></h1>
 
-## Descripción 📋
+## Description 📋
 
-Money Calculator es una aplicación Java que simplifica la conversión de una moneda a otra de manera eficiente. Utilizando el patrón de diseño Modelo-Vista-Controlador (MVC) y el patrón Observer, la aplicación proporciona una interfaz intuitiva para realizar conversiones monetarias con facilidad.
+Money Calculator is a Java application that simplifies currency conversion efficiently. Using the Model-View-Controller (MVC) design pattern and the Observer pattern, the application provides an intuitive interface for performing currency conversions with ease.
 
-# 👥 Equipo de desarrollo (Ctrl + Click para ver los perfiles)
+# 👥 Development Team (Ctrl + Click to view profiles)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Alejandro%20David%20Arzola%20Saavedra-blue?style=flat-square&logo=github)](https://github.com/AlejandroDavidArzolaSaavedra)
 
-## Características ✨
+## Features ✨
 
-- **Conversión de Moneda:** Permite al usuario ingresar el monto en una moneda de origen y seleccionar la moneda de destino para obtener el monto convertido.
+- **Currency Conversion:** Allows the user to enter the amount in a source currency and select the destination currency to get the converted amount.
 
-- **Actualización Automática:** Implementa el patrón Observer para actualizar automáticamente la interfaz cuando cambian los datos de conversión.
+- **Automatic Update:** Implements the Observer pattern to automatically update the interface when conversion data changes.
 
-- **Interfaz Gráfica Amigable:** Desarrollada con Java Swing, la interfaz de usuario es fácil de entender y utilizar.
+- **User-Friendly GUI:** Developed with Java Swing, the user interface is easy to understand and use.
 
-## Estructura del Proyecto 🏗️
+## Project Structure 🏗️
 
-El código sigue el patrón MVC para una organización clara y modular:
+The code follows the MVC pattern for clear and modular organization:
 
-- **Modelo (Model):** Contiene la lógica de negocios y gestiona las tasas de cambio. La clase `MoneyCalculator` realiza los cálculos de conversión y mantiene el historial.
+- **Model:** Contains business logic and manages exchange rates. The `MoneyCalculator` class performs conversion calculations and maintains the history.
 
-- **Vista (View):** Representa la interfaz de usuario. La clase `MoneyDisplayView, MoneyView y MoneyEditView` maneja la presentación y entrada de datos para las conversiones.
+- **View:** Represents the user interface. The `MoneyDisplayView, MoneyView, and MoneyEditView` classes handle the presentation and data input for conversions.
 
-- **Controlador (Controller):** Gestiona las interacciones entre el usuario y la aplicación. La clase `MoneyEditController` maneja los eventos de usuario y actualiza el modelo y la vista en consecuencia.
+- **Controller:** Manages interactions between the user and the application. The `MoneyEditController` class handles user events and updates the model and view accordingly.
 
-El patrón Observer se utiliza para permitir que la vista se actualice automáticamente cuando cambian las tasas de cambio.
+The Observer pattern is used to allow the view to update automatically when exchange rates change.
 
-## Integración de API 🌐
+## API Integration 🌐
 
-- Se utiliza una API para obtener tasas de cambio actualizadas.
+- An API is used to obtain updated exchange rates.
 
-- Los componentes relevantes se encuentran en el paquete WebService.
+- Relevant components are located in the WebService package.
 
 ##
 
-## Requisitos 🛠️
+## Requirements 🛠️
 
-- Java JDK 8 o superior.
-- IDE compatible con Java (Eclipse, IntelliJ, etc.).
+- Java JDK 8 or higher.
+- Java-compatible IDE (Eclipse, IntelliJ, etc.).
 
-## Diseño de la interfaz 🎨
+## Interface Design 🎨
 
 <ul align="center">		
     <img style="width:40rem"  src="interfaz.png">
 </ul>
 
-## Diseño del Modelo 💻
+## Model Design 💻
 
 <ul align="center">		
     <img style="width:40rem"  src="model.PNG">
 </ul>
 
-## Instrucciones de Uso 🚀
+## Usage Instructions 🚀
 
-1. Clona el repositorio: `git clone https://github.com/AlejandroDavidArzolaSaavedra/MoneyCalculator`
-2. Abre el proyecto en tu IDE preferido.
-3. Ejecuta la clase `MoneyCalculatorController` para iniciar la aplicación.
+1. Clone the repository: `git clone https://github.com/AlejandroDavidArzolaSaavedra/MoneyCalculator`
+2. Open the project in your preferred IDE.
+3. Run the `MoneyCalculatorController` class to start the application.
 
-## Contribuciones 🤝
+## Contributions 🤝
 
-¡Se aprecian las contribuciones! Si encuentras errores o tienes mejoras sugeridas, crea un _issue_ o envía una solicitud de _pull request_.
-
+Contributions are appreciated! If you find bugs or have suggested improvements, create an issue or send a pull request.
