@@ -64,4 +64,5 @@ The Observer pattern is used to allow the view to update automatically when exch
 
 ## Contributions 🤝
 
-Contributions are appreciated! If you find bugs or have suggested improvements, create an issue or send a pull request.
+
+<img align="left" width="180" height="100" src="https://github.com/AlejandroDavidArzolaSaavedra/Kata-Frequency-Calculator/assets/90756437/6d6a1cd1-4cef-4fef-85fa-170488ab17ba"></a>Contributions are appreciated! If you find bugs or have suggested improvements, create an issue or send a pull request.
