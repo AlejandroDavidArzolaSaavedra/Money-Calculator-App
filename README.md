@@ -2,7 +2,7 @@
 
 ## Description 📋
 <img align="left" width="100" height="100" src="https://github.com/AlejandroDavidArzolaSaavedra/Money-Calculator-App/assets/90756437/b3938b2e-5669-4327-ba22-6f66a3cbf6a5">
-<strong>Money Calculator</strong> is a Java application that simplifies <strong>currency conversion efficiently</strong>. Using the <strong>Model-View-Controller (MVC) design pattern</strong> and the <strong>Observer pattern</strong>, the application provides an intuitive interface for performing currency conversions with ease.
+<strong>Money Calculator</strong> is a Java application that simplifies <strong>currency conversion efficiently</strong>. Using the <strong>Model-View-Controller (MVC) design pattern</strong> and the <strong>Observer pattern</strong>, the application provides an intuitive interface for performing currency conversions with ease.<br><br>
 
 
 # 👥 Development Team (Ctrl + Click to view profiles)
