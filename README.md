@@ -1,8 +1,9 @@
 <h1 align="center"><b>Money Calculator App 💰 </b></h1>
 
 ## Description 📋
-
+<img align="left" width="100" height="100" src="https://github.com/AlejandroDavidArzolaSaavedra/Money-Calculator-App/assets/90756437/b3938b2e-5669-4327-ba22-6f66a3cbf6a5">
 Money Calculator is a Java application that simplifies currency conversion efficiently. Using the Model-View-Controller (MVC) design pattern and the Observer pattern, the application provides an intuitive interface for performing currency conversions with ease.
+
 
 # 👥 Development Team (Ctrl + Click to view profiles)
 
@@ -20,7 +21,7 @@ Money Calculator is a Java application that simplifies currency conversion effic
 
 The code follows the MVC pattern for clear and modular organization:
 <p align="center">
-<img width="500px" src="https://github.com/AlejandroDavidArzolaSaavedra/MoneyCalculator/assets/90756437/16fff1ca-668f-4e3b-a089-18696532b4d0"/>
+<img width="400px" src="https://github.com/AlejandroDavidArzolaSaavedra/Money-Calculator-App/assets/90756437/6a21c278-fb57-42e9-9818-e109d8aa9e8d"/>
 </p>
 
 - **Model:** Contains business logic and manages exchange rates. The `MoneyCalculator` class performs conversion calculations and maintains the history.
