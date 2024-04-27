@@ -43,7 +43,7 @@ The Observer pattern is used to allow the view to update automatically when exch
 ## Requirements 🛠️
 
 - Java JDK 8 or higher.
-- Java-compatible IDE (Eclipse, IntelliJ, etc.).
+- Java-compatible IDE (Eclipse).
 
 ## Interface Design 🎨
 
